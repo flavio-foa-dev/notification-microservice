@@ -39,3 +39,7 @@ npx prisma init --datasource-provider SQLite
 
  interface prisma para visualizar DB
  npx prisma studio
+
+ ### Validation
+ npm install class-validator
+ npm install class-transformer
